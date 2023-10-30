@@ -1,0 +1,8 @@
+N       DENSITY         BASELINE                                    STEEPEST_ASCENT                        OUR      
+n       d               (#call, (#sets, cost), #steps, #msteps)     (#c = inf, (#sets, cost), #steps)      (#call, (#sets, cost), #steps, #msteps)
+
+
+
+
+
+N       DENSITY         THRESHOLD
