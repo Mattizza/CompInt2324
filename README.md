@@ -6,7 +6,7 @@ Repository for the Computational Intelligence course taught by [Giovanni Squille
 
 ## Labs
 
-| Lab       | Topic                  | Link                              |
-|-----------|------------------------|-----------------------------------|
-| Lab 1     | Implementation of the A* search algorithm for the set covering problem | [Link to Lab 1](https://github.com/Mattizza/Computational_Intelligence_2023-2024/tree/main/Lab_1) |
-| Lab 2     | ...    | ... |
+| Lab         | Topic                                                                  | Link                                                                                              |
+|:-----------:|:----------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
+| Lab 1       | Implementation of the A* search algorithm for the set covering problem | [Link to Lab 1](https://github.com/Mattizza/Computational_Intelligence_2023-2024/tree/main/Lab_1) |
+| Lab 2       | ...                                                                    | ...                                                                                               |
