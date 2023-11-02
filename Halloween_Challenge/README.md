@@ -1,4 +1,9 @@
-**EXPERIMENTAL RESULTS: OUR METHOD VS BASELINE/BENCHMARK**
+# Disclaimer
+The notebook regarding the implementation and the presentation of our methodology is **not ready yet**. In the following you can find our results.
+
+---
+
+## EXPERIMENTAL RESULTS: OUR METHOD VS BASELINE/BENCHMARK
 
 Experiments with different distances comparing against the BASELINE (random_tweaking) and the BENCHMARK (steepest_ascent). Each tuple has the following format: (*#fitness_calls*, *cost*, *#steps*, *#steps_with_no_improvements_to_stop*), along with [*comparison_with_baseline*]. For each configuration, all the elements have been covered.
 
@@ -11,9 +16,7 @@ Experiments with different distances comparing against the BASELINE (random_twea
 | 1000 | 0.7     | (400, -5, 6, 350)     | ($\infty$, -4, 4, $\infty$)    | (111, -4, 4, 50) [**x3.6**]    | (66, -5, 5, 20) [**x6.1**]      | (75, -4, 4, 40) [**x5.3**]     |
 | 5000 | 0.7     | (1010, -7, 7, 1000)   | ($\infty$, -5, 5, $\infty$)    | (125, -6, 8, 50) [**x8.1**]    | (64, -6, 6, 20) [**x15.8**]     | (68, -6, 6, 40) [**x14.9**]    |
 
----
-
-**EXPERIMENTAL RESULTS: OUR BEST RESULT VS CANDIDATES PRUNING**
+## EXPERIMENTAL RESULTS: OUR BEST RESULT VS CANDIDATES PRUNING
 
 Experiments testing the effectivness of candidates pruning. Each tuple in the modified version has the following format: (*#fitness_calls*, *cost*, *#steps*, *#steps_with_no_improvements_to_stop*, *ratio*), along with [*comparison_with_baseline*]. For each configuration, all the elements have been covered.
 
