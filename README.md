@@ -12,3 +12,9 @@ Repository for the Computational Intelligence course taught by [Giovanni Squille
 | Halloween Challenge! 🎃🦇   | Took part in the Halloween Challenge and designed an algorithm which has proven to be very effective (also presented during a lecture) | [Link to the Challenge](https://github.com/Mattizza/Computational_Intelligence_2023-2024/tree/main/Halloween_Challenge)                                                                               |
 | Lab 2 🧙🏼‍♂️✨                  | Design of an ES based algorithm to play (and win!) against an opponent at the Nim game                                                 | [Link to Lab 2](https://github.com/Mattizza/Computational_Intelligence_2023-2024)                  |
 | Lab 3                      | ...                                                                    | ...                                                                                               |
+
+---
+
+### Disclaimer
+
+Even though most of the code presented in this repo has been produced by the authors, or sometimes by the Professor during lectures, some pieces have been eventually developed through the help provided by several discussions on [Stack Overflow](https://stackoverflow.com/) and by AI tools like [ChatGPT](https://chat.openai.com/) (version 3.5). These have represented a great starting point for creating our own custom solutions!
